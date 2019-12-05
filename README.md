@@ -1,4 +1,4 @@
-# Weather / Clothing Game
+# ☀ ⛅ Weather / Clothing  🌈 🌂 🧥
 This project is a game. When the game is played the player will be 
 asked about what the weather is like. The player will then 
 receive a response based on what they initially said.
@@ -8,4 +8,6 @@ To run the game
 - Respond to the prompt
 - Receive a response from the program
 - The game will then repeat
-- To end the game/program input 'no more magic' 
+- To end the game/program input 'no more magic'
+
+ 
